@@ -1,6 +1,6 @@
 # Health Chatbot: AI-Powered Personalized Health Assistant
 ### Final Year Project Phase - 2
-An AI-powered healthcare support system utilizing a three-model architecture for accurate, safe, and research-backed health assistance.
+An AI-powered personalized health assistant evolving into a comprehensive Health Super App with on-device processing capabilities.
 
 ## Core Features
 
