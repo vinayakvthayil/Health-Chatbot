@@ -23,9 +23,7 @@ An AI-powered personalized health assistant evolving into a comprehensive Health
 - Privacy-focused processing
 
 ## Technical Architecture
-- Frontend: Streamlit
-- Backend: Flask
-- Database: ChromaDB vector storage
+- Mobile Development: Android Studio
 - AI Models: 
   - Gemma 2B LLM (on-device)
   - Enhanced RAG system
