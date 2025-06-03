@@ -4,7 +4,7 @@ An AI-powered personalized health assistant evolving into a comprehensive Health
 
 ## Core Features
 
-**On-Device AI Processing**
+**On-Device AI Processing** 
 - Gemma 2B LLM integration for local processing
 - Enhanced RAG system for health domain
 - Multi-model AI architecture for improved diagnostics
