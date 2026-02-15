@@ -20,7 +20,7 @@ An AI-powered personalized health assistant evolving into a comprehensive Health
 - Standalone Wear OS application
 - Cross-device synchronization
 - Offline functionality
-- Privacy-focused processing
+- Privacy-focused processing 
 
 ## Technical Architecture
 - Mobile Development: Android Studio
